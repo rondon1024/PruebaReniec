@@ -1,0 +1,5 @@
+com\bdd\web\path\ReniecPath.class
+com\bdd\web\page\ReniecPage.class
+com\bdd\web\step\ReniecStep.class
+com\bdd\web\model\ExcelModel.class
+com\bdd\web\stepdefinition\ReniecStepDefintion.class
